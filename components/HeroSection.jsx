@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import React from "react";
 import TypeWritter from "typewriter-effect";
 import { motion } from "framer-motion";
