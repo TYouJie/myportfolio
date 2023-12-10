@@ -63,7 +63,7 @@ const HeroSection = () => {
             </Link>                  
 
           </motion.div>
-          
+
         <div className="col-span-4 md:col-span-4 place-self-center mt-12 lg:mt-0 pt-0 lg:pt-24">
           <motion.div
             initial={{ opacity: 0, scale: 0.5 }}
@@ -72,7 +72,7 @@ const HeroSection = () => {
           >
           <div className="w-[400px] h-[400px] relative z-0">
             <img
-              src="/Hero-Section.png"
+              src="/profile.jpg"
               alt="hero section"
               className=" transform rounded-full flex relative -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
               width={450}
