@@ -21,10 +21,10 @@ const EmailSection = () => {
         </p>
         <h4 className="pb-3 mt-6">Let&apos;s get in touch!</h4>
         <div className="flex flex-row gap-4 mt-6">
-          <Link href="http">
+          <Link href="https://github.com/TYouJie">
             <Image src={GithubIcon} alt="Github Icon" />
           </Link>
-          <Link href="http">
+          <Link href="www.linkedin.com/in/teng-yi-ling-3b0715280">
             <Image src={LinkedinIcon} alt="Linkedin Icon" />
           </Link>
           <Link href="mailto:yiling13579@gmail.com" className="mt-1">
