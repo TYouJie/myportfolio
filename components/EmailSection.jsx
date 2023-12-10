@@ -24,7 +24,7 @@ const EmailSection = () => {
           <Link href="https://github.com/TYouJie">
             <Image src={GithubIcon} alt="Github Icon" />
           </Link>
-          <Link href="www.linkedin.com/in/teng-yi-ling-3b0715280">
+          <Link href="https://my.linkedin.com/in/teng-yi-ling-3b0715280">
             <Image src={LinkedinIcon} alt="Linkedin Icon" />
           </Link>
           <Link href="mailto:yiling13579@gmail.com" className="mt-1">
